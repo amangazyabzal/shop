@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 12",
+    "description": "Lorem ipsum 12 iphone",
+    "img": "iphone12.jpeg",
+    "isLike": false,
+    "salary": 600000
+  },
+  {
+    "id": 2,
+    "name": "Samsung S7",
+    "description": "Lorem ipsum samsung",
+    "img": "samsung.jpeg",
+    "isLike": false,
+    "salary": 200000
+  },
+  {
+    "id": 3,
+    "name": "Redmi Note 8",
+    "description": "Lorem ipsum redmi note xiaomi",
+    "img": "redmi.jpeg",
+    "isLike": false,
+    "salary": 120000
+  },
+  {
+    "id": 4,
+    "name": "Iphone 8",
+    "description": "Lorem ipsum 8 iphone",
+    "img": "iphone8.jpeg",
+    "isLike": false,
+    "salary": 100000
+  }
+]
